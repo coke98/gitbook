@@ -7,4 +7,4 @@
 * CCTV, 비상벨, 경찰서, 소방서, 응급실, 가로등, 편의점 등 다양한 시설을 제공합니다.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (8).png>)
+![](<../../../../.gitbook/assets/image (8) (1).png>)
