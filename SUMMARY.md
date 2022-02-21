@@ -28,8 +28,8 @@
 ## 프로젝트 개발
 
 * [페이지 UI](undefined-4/ui/README.md)
-  * [Mainpage](undefined-4/ui/mainpage/README.md)
-    * [Menu](undefined-4/ui/mainpage/menu/README.md)
+  * [Main Page](undefined-4/ui/mainpage/README.md)
+    * [Menu Bar](undefined-4/ui/mainpage/menu/README.md)
       * [길 찾기 sub menu](undefined-4/ui/mainpage/menu/sub-menu.md)
       * [마커 선택 sub menu](undefined-4/ui/mainpage/menu/sub-menu-1.md)
       * [즐겨찾기 sub menu](undefined-4/ui/mainpage/menu/sub-menu-2.md)
@@ -41,7 +41,7 @@
       * [경고음 button](undefined-4/ui/mainpage/button/button-2.md)
       * [긴급 전화 button](undefined-4/ui/mainpage/button/button-3.md)
       * [긴급 문자 button](undefined-4/ui/mainpage/button/button-4.md)
-  * [Loading screen](undefined-4/ui/loading-screen.md)
+    * [Loading screen](undefined-3/ui/mainpage/loading-screen.md)
 * [Data Storage](undefined-4/data-storage.md)
 * [Prototype](undefined-4/prototype.md)
 
