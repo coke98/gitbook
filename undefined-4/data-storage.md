@@ -7,4 +7,4 @@
 * Session Storage를 사용하면 브라우저 내 데이터를 지우지 않는 이상 데이터가 유지되어 사용 가능합니다.
 {% endhint %}
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
