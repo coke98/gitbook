@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="고정 Viewport" %}
-![](<../.gitbook/assets/image (7).png>) ![](../.gitbook/assets/image%20\(7\).png)
+![](<../.gitbook/assets/image (7) (2).png>) ![](<../.gitbook/assets/image (7) (2).png>)
 {% endtab %}
 {% endtabs %}
 

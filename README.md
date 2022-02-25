@@ -2,10 +2,6 @@
 
 ![](.gitbook/assets/Overview1.png)
 
-![](<.gitbook/assets/image (6).png>)
+![](<.gitbook/assets/image (7).png>)
 
-![](.gitbook/assets/Overview2.png)
-
-![](.gitbook/assets/20211226\_172746.png)
-
-![](.gitbook/assets/20211226\_210603.png)
+![](<.gitbook/assets/image (5).png>)
