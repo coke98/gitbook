@@ -47,6 +47,6 @@
 
 ## 프로젝트 결과
 
-* [중간 발표 및 피드백](undefined-5/undefined.md)
+* [피드백](undefined-5/undefined.md)
 * [최종 발표 및 피드백](undefined-5/undefined-1.md)
 * [향후 개발 계획](undefined-5/undefined-2.md)
