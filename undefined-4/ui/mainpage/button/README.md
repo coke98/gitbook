@@ -27,4 +27,4 @@
 [button-4.md](button-4.md)
 {% endcontent-ref %}
 
-![](<../../../../.gitbook/assets/image (11).png>)
+![](<../../../../.gitbook/assets/image (11) (1).png>)

@@ -6,7 +6,7 @@
 
 Session Storage는 다음과 같이 브라우저 내에 Key와 Value의 형식으로 데이터를 저장하는 방식이다.
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (2).png>)
 
 사이트를 나가거나 브라우저를 종료하더라도 계속해서 데이터는 남아 있기에 DB가 구축되지 않은 상태에서는 임시로 가장 적합한 방법이라고 판단되었다.
 
