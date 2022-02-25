@@ -1,6 +1,8 @@
-# Document
+# 프로젝트 개요
 
 ![](.gitbook/assets/Overview1.png)
+
+![](<.gitbook/assets/image (6).png>)
 
 ![](.gitbook/assets/Overview2.png)
 

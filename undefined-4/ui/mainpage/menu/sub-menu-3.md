@@ -7,4 +7,4 @@
 * 설정된 정보는 긴급 전화 및 문자 기능에 사용됩니다.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (20) (1).png>)
+![](<../../../../.gitbook/assets/image (20) (1) (1).png>)
